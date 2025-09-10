@@ -25,6 +25,9 @@ It also tracks interesting statistics like: Tinted Rocks Destroyed and Participa
 The default directory is ".\Steam\userdata\\*\250900\remote", where * is your SteamID3.
 
 ## Version History
+* 1.1 - Update to v1.9.7.13
+   * Added 1 Achievement, moved a bunch of bytes by one
+   * Improved the code a bit to minimize copy & paste
 * 1.0 - GUI Update
     * Added File selection screen, which shows the exact file images in-game (tracks what the player has completed for each save file)
     * Added Achievement tracker page, where each completed achievement is highlighted with a green border
