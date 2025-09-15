@@ -25,6 +25,9 @@ It also tracks interesting statistics like: Tinted Rocks Destroyed and Participa
 The default directory is ".\Steam\userdata\\*\250900\remote", where * is your SteamID3.
 
 ## Version History
+* 1.2.1 - Bug fixes
+  * Fixed Red Xs not appearing when beating bosses in Statistics
+  * Set a variable from local to global to fix "Completed" text in Statistics
 * 1.1 - Update to v1.9.7.13
    * Added 1 Achievement, moved a bunch of bytes by one
    * Improved the code a bit to minimize copy & paste
