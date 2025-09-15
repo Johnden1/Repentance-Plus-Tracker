@@ -28,7 +28,7 @@ The default directory is ".\Steam\userdata\\*\250900\remote", where * is your St
 * 1.2.1 - Bug fixes
   * Fixed Red Xs not appearing when beating bosses in Statistics
   * Set a variable from local to global to fix "Completed" text in Statistics
-* 1.1 - Update to v1.9.7.13
+* 1.1 - Update to v1.9.7.14
    * Added 1 Achievement, moved a bunch of bytes by one
    * Improved the code a bit to minimize copy & paste
 * 1.0 - GUI Update
