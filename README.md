@@ -1,4 +1,4 @@
-# Repentance+ Tracker → [Download Here!](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.2.1/Repentance+_Tracker_v1.2.1.zip)
+# Repentance+ Tracker → [Download Here!](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.3/Repentance+_Tracker_v1.3.zip)
 
 A "simple" achievement, item and stats tracker for Binding of Isaac Rebirth - Repentance+ DLC
 
@@ -18,13 +18,16 @@ It also tracks interesting statistics like: Tinted Rocks Destroyed and Participa
 * Supports Windows 10/11
 * Works only for Repentance+ Beta
 
-### [Download](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.2.1/Repentance+_Tracker_v1.2.1.zip) & How to run
+### [Download](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.3/Repentance+_Tracker_v1.3.zip) & How to run
 
 * Unzip into a folder and run the .exe file
 * Make sure your save files are properly located in Program Files or Program Files (x86)
 The default directory is ".\Steam\userdata\\*\250900\remote", where * is your SteamID3.
 
 ## Version History
+* 1.3 - Save Heart
+  * Added better searching for save files on your system
+  * Fixed Mom's Heart Kills not tracking properly
 * 1.2.1 - Bug fixes
   * Fixed Red Xs not appearing when beating bosses in Statistics
   * Set a variable from local to global to fix "Completed" text in Statistics
