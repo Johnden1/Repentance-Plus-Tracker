@@ -50,9 +50,10 @@ The default directory is ".\Steam\userdata\\*\250900\remote", where * is your St
    * Added a Folder Browser Dialog in case the save file directory is not located in Program Files and prompts the user to select a folder
       * This setting is also stored in settings.ini
    * Added a Statistics button, where it shows various stats and progression (the game uses these to track the achievements)
-      * Many stats in this page are tracked by a 32-bit number
-      * Super Tinted Rock progress tracks which characters you have beaten without losing
-      * Many progress trackers like Basement bosses killed track which bosses you have beaten, and which you are still missing
+      * Many stats on this page are tracked by a 32-bit number.
+      * Super Tinted Rock progress tracks which characters you have beaten without losing.
+      * Many progress trackers like Basement bosses killed track which bosses you've beaten, and which you're still missing.
+   * Removed spreadsheet in favor of GUI
 * 0.2
     * Added Tinted Rock counter
     * Now supports Powershell v7
