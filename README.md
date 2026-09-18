@@ -15,7 +15,7 @@ It also tracks interesting statistics like: Tinted Rocks Destroyed and Participa
 
 ### Compatibility
 
-* Supports Windows 10/11
+* Supports Windows 10/11 (Works on Wine as well)
 * Works only for Repentance+ Beta
 
 ### [Download](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.3/Repentance+_Tracker_v1.3.zip) & How to run
